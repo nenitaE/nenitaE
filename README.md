@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nenitaE
-- 👀 I’m interested in all things blockchain and web3
-- 🌱 I’m currently learning software engineering (Javascript/Python)
-- 💞️ I’m looking to collaborate on solidity/web3.0/blockchain projects
+- 👋 Hi, I’m Nenita!
+- 👀 I’m a software engineer with an interest in all things blockchain and web 3.0!
+- 🌱 I’m currently working on ConnectPT- a website for physical therapists and their patients.
+- 💞️ I’m open to collaborate on any fullstack or decentralized projects
 - 📫 Reach me on slack: Nenita Espinosa
 
 <!---
