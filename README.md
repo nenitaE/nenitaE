@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nenita!
+## 👋 Hi, I’m Nenita!
 - 👀 I’m a software engineer with an interest in all things blockchain and web 3.0!
 - 🌱 I’m currently working on ConnectPT- a website for physical therapists and their patients.
 - 💞️ I’m open to collaborate on any fullstack or decentralized projects
